@@ -1,0 +1,29 @@
+.body {
+    font-family: "Comic Sans MS", Arial, sans-serif
+}
+
+.main {
+    width: 400px;
+    background: #8eda77;
+    margin: 50px auto;
+    padding: 10px;
+}
+
+.title {
+    background: #a8e296;
+    padding: 8px;
+    border: 5px solid #155302;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+}
+
+.list {
+    background: #4af516;
+    box-sizing: border-box;
+    border: 2px solid #155302;
+    width: 100px;
+    margin: 10px auto;
+    padding: 2px;
+    text-align: center;
+}
