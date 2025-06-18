@@ -15,6 +15,7 @@
     border: 5px solid #155302;
     margin-bottom: 20px;
     margin-top: 10px;
+    text-align: center;
 
 }
 
@@ -27,3 +28,23 @@
     padding: 2px;
     text-align: center;
 }
+
+.sushi {
+    width: 800px;
+    background: #8eda77;
+    margin: 50px auto;
+    padding: 10px;
+}
+
+.title2 {
+    text-decoration: underline;
+}
+
+.list2 {
+    background: #a8e296;
+    padding: 2px;
+    border: 2px solid #155302;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
